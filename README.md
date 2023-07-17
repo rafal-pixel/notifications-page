@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/notifications-page-bem-event-delegation-MqAhefD75A)
-- Live Site URL: [live](https://robotamozepoczekac.github.io/notifications-page)
+- Live Site URL: [live](https://rafal-pixel.github.io/notifications-page)
 
 
 
